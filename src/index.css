@@ -1,0 +1,15 @@
+.custom-property {
+  margin: 150px auto;
+  max-width: 650px;
+}
+
+.custom-btn {
+  border: none;
+}
+
+.quote-author {
+  display: flex;
+  justify-content: right;
+  margin-top: 15px;
+  margin-right: 10px;
+}
